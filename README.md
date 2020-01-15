@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/jeffreykennedy/AzureStudy/_apis/build/status/Website-CI?branchName=master)](https://dev.azure.com/jeffreykennedy/AzureStudy/_build/latest?definitionId=6&branchName=master)
+
 # Tailwind Traders Website
 
 ![Tailwind Traders Website](Documents/Images/Website.png)
